@@ -24,10 +24,14 @@ The model demonstrated exceptional precision with the following metrics:
 ## Visualizations
 ### 1. Stock Price Over Time
 Visualizing the growth of TCS stock from 2002 to 2021.
+<img width="1009" height="523" alt="TCS2" src="https://github.com/user-attachments/assets/bb956b9e-aac6-40ab-b87f-69a5fb80a946" />
+<img width="1009" height="523" alt="TCS2" src="https://github.com/user-attachments/assets/bb956b9e-aac6-40ab-b87f-69a5fb80a946" />
 
 
 ### 2. Moving Average Crossover Strategy
 Identifying entry and exit points using 50-day and 200-day averages.
+<img width="984" height="529" alt="TCS1" src="https://github.com/user-attachments/assets/a0265efa-7d06-4df2-b7fe-24517bf0c48d" />
+<img width="984" height="529" alt="TCS1" src="https://github.com/user-attachments/assets/a0265efa-7d06-4df2-b7fe-24517bf0c48d" />
 
 
 ## How to Run
